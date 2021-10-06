@@ -43,3 +43,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=raqibnur&count_private=true&show_icons=true&theme=default" />
 </a>
+
+  <a href="https://app.daily.dev/raqibnur"><img src="https://api.daily.dev/devcards/f1de4402552c4f69b07f26050c290f36.png?r=k06" width="400" alt="raqib nur's Dev Card"/></a>
