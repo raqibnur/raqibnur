@@ -1,4 +1,4 @@
-<div><a href="https://raqibnur.com"><img src="https://i.ibb.co/m45r9H6/Cover.png" alt="Cover" border="0"></a></div>
+<div><a href="https://raqibnur.com"><img src="https://i.ibb.co/m45r9H6/Cover.png" alt="Cover" border="0" width="100%"></a></div>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raqibnur.raqibnur)
