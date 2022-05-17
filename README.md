@@ -10,7 +10,7 @@
 <h2> About Me </h2>
   
 
-<a href="https://app.daily.dev/raqibnur"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="30%" align="right" alt="raqib nur's Dev Card"/></a>
+<a href="https://app.daily.dev/raqibnur"><img src="https://github.com//Raqibnur/raqibnur/blob/master/devcard.svg" width="30%" align="right" alt="raqib nur's Dev Card"/></a>
   
 - 🔭 I’m currently working as freelance web developer
 
