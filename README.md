@@ -14,11 +14,11 @@
   
 - 🔭 I’m currently working as freelance web developer
 
-- 🌱 I’m currently learning javascript, react js and next js....
+- 🌱 I’m currently learning and earnig as a freelancer....
 
 - 👯 I’m looking to collaborate with a growing agency where i can learn more...
 
-- 💬 I support companies in creating nice & functional digital products for humans. working as a front-end developer since 2018 🏃 
+- 💬 Solving Brands And Businesses Problems To Convert Their Audience To Customers By Creating A Highly Useable And Intuitive Website 🏃 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/raqibnur?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
