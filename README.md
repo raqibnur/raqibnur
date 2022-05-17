@@ -9,7 +9,7 @@
 
 <h2> About Me </h2>
   
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<a href="https://app.daily.dev/raqibnur"><img src="https://api.daily.dev/devcards/f1de4402552c4f69b07f26050c290f36.png?r=44k" width="400" alt="raqib nur's Dev Card"/></a>
   
 - 🔭 I’m currently working as freelance web developer
 
