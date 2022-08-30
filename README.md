@@ -53,12 +53,6 @@
       </a>
       <br>Bootsrap
     </td>
-    <td align="center" width="96">
-      <a href="#raqibnur" >
-        <img src="./asset/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Saas
-    </td>
   </tr>
   <tr>
      <td align="center" width="96">
@@ -90,13 +84,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>MySql
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="wp" />
-      </a>
-      <br>WP
-    </td>    
+    </td>   
   </tr>
 </table>
 
