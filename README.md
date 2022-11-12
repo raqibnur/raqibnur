@@ -12,13 +12,15 @@
 
 <a href="https://app.daily.dev/raqibnur"><img src="https://github.com/Raqibnur/raqibnur/blob/main/devcard.svg" width="30%" align="right" alt="raqib nur's Dev Card"/></a>
   
-- 🔭 I’m currently working as freelance web developer
+- 🔭 I’m currently working as a freelance web developer
 
-- 🌱 I’m currently learning and earnig as a freelancer....
+- 🌱 I’m currently learning and earning as a freelancer
 
-- 👯 I’m looking to collaborate with a growing agency where i can learn more...
+- 🌱 I’ve recently co-founded an eCommerce Development Company
 
-- 💬 Solving Brands And Businesses Problems To Convert Their Audience To Customers By Creating A Highly Useable And Intuitive Website 🏃 
+- 👯 I’m looking for a potential collaboration with a growing agency through which I can increase my business
+
+- 💬 Solving eCommerce & brands web-related problems since a long-time 🏃 
 
 <h2> Skills </h2>
 <table>
