@@ -1,104 +1,47 @@
-<div><a href="https://raqibnur.com"><img src="https://github.com/Raqibnur/raqibnur/blob/main/asset/Cover.png" alt="Cover" border="0" width="100%"></a></div>
-<p align='center'>
+<a href="https://raqibnur.com"><img src="./asset/Cover.png" alt="Raqib Nur — raqibnur.com" width="100%"></a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=raqibnur.raqibnur)
+<h3 align="center">Founder @ <a href="https://therundigital.com">The Run Digital</a> · Building dev tools for WordPress &amp; macOS</h3>
 
+<p align="center">
+  <a href="https://raqibnur.com"><img src="https://img.shields.io/badge/raqibnur.com-111?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://x.com/mdraqibnur"><img src="https://img.shields.io/badge/@mdraqibnur-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.linkedin.com/in/raqibnur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://app.daily.dev/raqibnur"><img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=flat-square&logo=dailydotdev&logoColor=white" alt="daily.dev"></a>
+  <img src="https://komarev.com/ghpvc/?username=raqibnur&style=flat-square&color=111&label=views" alt="Profile views">
 </p>
-<div size='20px'> Hi! My name is Raqib Nur. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
 
-<h2> About Me </h2>
-  
+---
 
-<a href="https://app.daily.dev/raqibnur"><img src="https://github.com/Raqibnur/raqibnur/blob/main/devcard.svg" width="30%" align="right" alt="raqib nur's Dev Card"/></a>
-  
-- 🔭 I’m currently working as CTO
+<a href="https://app.daily.dev/raqibnur"><img src="./devcard.svg" width="260" align="right" alt="Raqib Nur's daily.dev card"></a>
 
-- 🌱 I’ve recently co-founded an eCommerce Development Company
+### 👋 Hey, I'm Raqib
 
-- 👯 I’m looking for a potential collaboration with a growing agency through which I can increase my business
+I run **The Run Digital** — a web agency across Dhaka 🇧🇩 and Quebec 🇨🇦, building sites and lead systems for home-service and contracting businesses.
 
-- 💬 Solving eCommerce & brands web-related problems for a long-time 🏃 
+On the side I ship my own products, mostly with a multi-agent Claude Code workflow.
 
-<h2> Skills </h2>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="./asset/javascript-original.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="./asset/typescript-original.svg" width="48" height="48" alt="Typesript" />
-      </a>
-      <br>Typesript
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="./asset/react-original.svg" width="48" height="48" alt="React js" />
-      </a>
-      <br>React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="Next js" />
-      </a>
-      <br>Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="./asset/bootstrap-plain.svg" width="48" height="48" alt="Boostrap" />
-      </a>
-      <br>Bootsrap
-    </td>
-  </tr>
-  <tr>
-     <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-     <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="https://parse.programmieren-muenchen.de/parse/files/unilearn/liquid-logo-text-768.png" width="48" height="48" alt="Liquid" />
-      </a>
-      <br>Liquid
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96"> 
-      <a href="#raqibnur" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="#raqibnur" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="mysql" />
-      </a>
-      <br>MySql
-    </td>   
-  </tr>
-</table>
+### 🛠 What I'm building
 
+- **WPable** — a macOS app for building WordPress sites with AI agents. *In MVP.*
+- **[HoverUI](https://hoverui.com)** — open-source hover-effect components, shipped as a shadcn registry. *Contributions welcome.*
+- **[Minarah](https://minarah.app)** — a native SwiftUI menu-bar app that reminds you to pray during long screen sessions. *Free, 500+ users.*
 
-<h2> Connect with me </h2>
-<a href = 'https://www.linkedin.com/in/raqibnur'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/mdraqibnur'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://raqibnur.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/raqibnur'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+### 💬 Talk to me about
 
+WordPress & headless builds · Next.js · SwiftUI · AI-agent dev workflows · agency ops
 
+<br clear="right">
 
-<h2> My GitHub Stats </h2>
+### ⚡ Stack
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=raqibnur&count_private=true&show_icons=true&theme=default" />
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,vercel,cloudflare&perline=9" alt="Web stack">
+  <br>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,mysql,swift,rust,tauri,figma,git&perline=9" alt="WordPress, native & tooling">
+</p>
+
+### 📈 Activity
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=raqibnur&hide_border=true&theme=default" alt="GitHub streak" height="165">
+</p>
