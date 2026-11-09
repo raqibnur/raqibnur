@@ -72,20 +72,20 @@ After hours I ship my own products, mostly through a multi-agent Claude Code wor
 
 <table>
   <tr>
-    <td valign="top">
-      <b>🌐 Web</b><br>
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,supabase,vercel,cloudflare&perline=5" alt="Web stack">
-      <br><br>
-      <b>🧱 WordPress, native &amp; tooling</b><br>
-      <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,mysql,swift,rust,tauri,figma,git&perline=5" alt="WordPress, native and tooling">
-      <br><br>
-      <b>📈 Streak</b><br>
-      <img src="https://streak-stats.demolab.com?user=raqibnur&hide_border=true&background=00000000&ring=7C5CFF&fire=F59E0B&currStreakLabel=7C5CFF" alt="GitHub streak" width="100%">
-    </td>
-    <td valign="top" width="270" align="center">
-      <a href="https://app.daily.dev/raqibnur"><img src="./devcard.svg" width="250" alt="Raqib Nur's daily.dev card"></a>
+    <td valign="middle" align="center">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,wordpress,php,laravel,mysql,supabase,vercel,swift,rust,tauri,cloudflare,figma,git&perline=6" alt="Tech stack" width="100%">
       <br>
-      <sub>📚 Reading &amp; posting on daily.dev for 2+ years</sub>
+      <sub>🌐 Web &nbsp;·&nbsp; 🧱 WordPress &amp; PHP &nbsp;·&nbsp; 🍎 Native macOS &nbsp;·&nbsp; 🧰 Tooling</sub>
+    </td>
+    <td valign="middle" align="center" width="250">
+      <a href="https://app.daily.dev/raqibnur"><img src="./devcard.svg" width="230" alt="Raqib Nur's daily.dev card"></a>
+      <br>
+      <sub>📚 On daily.dev for 2+ years</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=raqibnur&hide_border=true&background=00000000&ring=7C5CFF&fire=F59E0B&currStreakLabel=7C5CFF" alt="GitHub streak">
     </td>
   </tr>
 </table>
