@@ -72,13 +72,13 @@ After hours I ship my own products, mostly through a multi-agent Claude Code wor
 
 <table>
   <tr>
-    <td valign="middle" align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,wordpress,php,laravel,mysql,supabase,vercel,swift,rust,tauri,cloudflare,figma,git&perline=6" alt="Tech stack" width="100%">
+    <td valign="middle" align="center" width="580">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,wordpress,php,laravel,mysql,supabase,vercel,swift,rust,tauri,cloudflare,figma,git&perline=6" alt="Tech stack" width="540">
       <br>
       <sub>🌐 Web &nbsp;·&nbsp; 🧱 WordPress &amp; PHP &nbsp;·&nbsp; 🍎 Native macOS &nbsp;·&nbsp; 🧰 Tooling</sub>
     </td>
-    <td valign="middle" align="center" width="250">
-      <a href="https://app.daily.dev/raqibnur"><img src="./devcard.svg" width="230" alt="Raqib Nur's daily.dev card"></a>
+    <td valign="middle" align="center" width="270">
+      <a href="https://app.daily.dev/raqibnur"><img src="./devcard.svg" width="250" alt="Raqib Nur's daily.dev card"></a>
       <br>
       <sub>📚 On daily.dev for 2+ years</sub>
     </td>
